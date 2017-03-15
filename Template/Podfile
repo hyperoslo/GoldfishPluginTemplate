@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :osx, '10.11'
+use_frameworks!
+inhibit_all_warnings!
+
+target "{PROJECT}" do
+  pod 'Goldfish', git: 'https://www.github.com/zenangst/Goldfish.git'
+end
