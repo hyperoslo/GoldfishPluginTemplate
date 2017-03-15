@@ -269,10 +269,10 @@
 				);
 				INFOPLIST_FILE = Config/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.-PROJECT-.-PROJECT-Plugin";
+				PRODUCT_BUNDLE_IDENTIFIER = com.goldfish.GoldfishPlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Sources/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = bundle;
 			};
@@ -290,10 +290,10 @@
 				);
 				INFOPLIST_FILE = Config/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.-PROJECT-.-PROJECT-Plugin";
+				PRODUCT_BUNDLE_IDENTIFIER = com.goldfish.GoldfishPlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Sources/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = bundle;
 			};
